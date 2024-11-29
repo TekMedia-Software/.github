@@ -1,0 +1,1 @@
+The resources needed for profile README.md such as cover photo, logos, etc. will be present in this directory
